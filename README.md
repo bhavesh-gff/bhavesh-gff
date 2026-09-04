@@ -1,51 +1,66 @@
- Hi, I'm Bhavesh Suthar 👋
+# Hi, I'm Bhavesh Suthar 👋
 
- About Me
+### BCA Computer Science Student | Python • SQL • Data Analytics | Data Science Learner
 
-I am a Computer Science student with a strong interest in Data Science, Java Development, Spring Boot, SQL, and Backend Development.
-I enjoy working with data, solving real-world problems, building practical projects, and continuously improving my technical skills through hands-on learning and internships.
-My focus is on Data Analysis, SQL, Backend Development, REST APIs, Spring Boot applications, and Data Structures & Algorithms.
-I am passionate about turning raw data into meaningful insights and developing efficient software solutions that solve practical business and technical challenges.
-I have also gained industry exposure through my internship experience, where I worked on data analysis, reporting, problem-solving, and practical implementation of software concepts.
+I am a BCA Computer Science student passionate about using technology and data to solve practical problems.
 
+My primary interests are **Data Analytics, SQL, Python, Data Visualization, and Data Science**, along with **Java, Spring Boot, and Backend Development**.
 
- Internship Experience
+I enjoy building real-world projects, analyzing datasets, creating dashboards, and continuously improving my technical and problem-solving skills through hands-on learning.
 
- ex-intern @lenovo leap company
- online
-📅 July 2025 – Present
+---
 
-- Worked on data analysis and reporting tasks
-- Performed statistical analysis for business insights
-- Created data visualizations and dashboards
-- Worked with SQL for data extraction and management
-- Improved problem-solving and analytical thinking skills
-- Collaborated on real-world business datasets
+##  About Me
 
+-  BCA Computer Science Student
+-  Interested in Data Analytics and Data Science
+-  Working with Python for data analysis
+-  Working with SQL and relational databases
+-  Interested in Data Visualization and Business Intelligence
+-  Also experienced with Java and Spring Boot
+-  Focused on building practical and portfolio-ready projects
 
- Tech Stack
- Programming Languages
-- Java
+---
+
+##  Technical Skills
+
+### Programming Languages
 - Python
+- Java
 - SQL
 - JavaScript
 
- Backend Development
+### Data & Analytics
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Google BigQuery
+- Google Analytics
+- E-commerce Analytics
+- Conversion Rate Analysis
+- Funnel Analysis
+
+### Currently Learning: Python & Data Tools
+- Pandas
+- NumPy
+- Matplotlib
+
+### Backend Development
 - Spring Boot
 - REST APIs
 - JDBC
 - Hibernate (Basics)
 
- Frontend
+### Web Development
 - HTML
 - CSS
 - JavaScript
 
- Database
+### Databases
 - MySQL
-- PostgreSQL (Basics)
+- PostgreSQL
 
- Tools & Platforms
+### Tools & Platforms
 - Git
 - GitHub
 - VS Code
@@ -56,43 +71,153 @@ I have also gained industry exposure through my internship experience, where I w
 
 ---
 
- Projects
- Student Management System
-A complete CRUD-based application for managing student records using python and SQL.
+##  Internship & Experience
+
+### IBM SkillsBuild Big Data & Business Management Internship
+**BharatCares × AICTE × IBM SkillsBuild**  
+**June 2026 – July 2026**
+
+- Successfully completed a 6-week internship focused on Big Data and Business Management.
+- Gained exposure to technology-driven problem solving and industry-oriented learning.
+- Strengthened my interest in Data Science, Data Analytics, and Business Intelligence.
+- **Certificate:** Certificate of Training
 
 
- QR Code Generator
-A Python-based utility project developed to generate QR codes dynamically for text, links, and other data, improving practical understanding of automation and file handling.
+### S S Technologies — Summer Internship
+**May 2026**
 
- Tic-Tac-Toe Game
-A Python-based game project developed to strengthen problem-solving skills, logical thinking, and core programming concepts through practical implementation.
+- Created marketing assets using Canva.
+- Produced and edited visual content using DaVinci Resolve.
+- Assisted with social media content and digital branding activities.
+- Collaborated with team members on creative and operational tasks.
+
+### Deloitte — Data Analytics Virtual Experience Program
+**May 2026**
+
+- Applied data analysis and visualization techniques to business datasets.
+- Performed exploratory data analysis to identify patterns and insights.
+- Created dashboards to communicate business insights.
+- Developed analytical thinking and data-driven problem-solving skills.
+- Gained practical exposure to analytics workflows in a simulated consulting environment.
 
 
- Currently Learning
+### Lenovo — Summer Internship
+**July 2025 – May 2026**
 
-- Advanced Spring Boot Concepts
-- Microservices Basics
-- REST API Development
+- Gained practical exposure to professional technology workflows.
+- Worked with team members on assigned technical and operational activities.
+- Strengthened analytical, problem-solving, communication, and teamwork skills.
+- Gained experience working in a professional corporate environment.
+
+---
+
+#  Personal Projects
+
+## 1. Ecommerce Sales & Conversion Analysis
+
+Analyzed ecommerce session data using **SQL and Google BigQuery** to identify revenue trends, product performance, traffic-channel conversion, and cart abandonment.
+
+**Key Analysis:**
+- Revenue by city
+- Top products by units sold
+- Session-to-transaction conversion rate
+- Traffic-channel conversion rate
+- Add-to-cart sessions without completed transactions
+
+**Tools:** SQL, Google BigQuery, Google Analytics Ecommerce Dataset
+
+---
+
+## 2. Sales Data Analysis
+
+Analyzed car sales data using data analysis techniques to identify trends, compare model performance, and generate meaningful business insights.
+
+**Tools:** Python, Pandas, Data Analysis, Data Visualization
+
+---
+
+
+---
+
+#  College Projects & Assignments
+
+## College Projects
+
+### ISA2 Full Stack Project
+A full-stack academic project developed as part of BCA practical coursework.
+
+### QR Code Generator
+Python-based practical project developed to understand programming logic and utility application development.
+
+### Task Management System
+A task management application developed as part of practical software development work.
+
+## 4. Tic-Tac-Toe Game
+
+A Python-based game developed to strengthen programming fundamentals, logical thinking, and problem-solving skills through practical implementation.
+
+
+---
+
+## College Assignments
+
+### Test Lab
+Academic practical work and laboratory exercises.
+
+### SYBCA Practical Java & Spring Boot
+Practical exercises covering Java, Spring Boot, backend development, and application development concepts.
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Statistics for Data Analysis
+- Data Visualization
+- Power BI
+- Machine Learning
 - Data Structures & Algorithms
+- Advanced Spring Boot Concepts
+- REST API Development
 - System Design Fundamentals
 
+---
 
+# 🎯 Career Interests
 
- Certifications
+- Data Analyst
+- Data Scientist
+- Python Developer
+- Backend Developer
+
+My primary career focus is **Data Analytics and Data Science**, while continuing to develop my backend development skills.
+
+---
+
+# 📊 Featured Work
+
+I use GitHub to document my learning journey, academic work, personal projects, data analysis projects, and software development experiments.
+
+I focus on building projects that demonstrate practical problem-solving, data analysis, programming, and software development skills.
+
+---
+
+# Certifications
 
 - Python Fundamentals
 - Data Science Fundamentals
 - Operating System Concepts
 - SQL for Data Analysis
+- IBM SkillsBuild Big Data & Business Management Internship BharatCares in association with AICTE & IBM SkillsBuild Certificate of Training | June 2026 – July 2026
+- IBM lifelong professional  skill  
 
+---
 
+#  Connect With Me
 
- Connect With Me
+- 💼 LinkedIn: [Bhawesh Suthar](https://www.linkedin.com/in/bhavesh-suthar-00761b315)
+- 🐙 GitHub: [bhawesh-git](https://github.com/bhawesh-git)
 
- inkedIn
-   https://www.linkedin.com/in/bhavesh-suthar-00761b315
- GitHub
-  https://bhavesh-gff.github.io/
- Email
-bhaveshsuthar08835@gmail.com
+---
 
+⭐ Thanks for visiting my profile!
