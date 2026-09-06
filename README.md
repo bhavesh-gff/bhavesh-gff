@@ -113,7 +113,15 @@ I enjoy building real-world projects, analyzing datasets, creating dashboards, a
 
 #  Personal Projects
 
-## 1. Ecommerce Sales & Conversion Analysis
+## 1. Sales Data Analysis
+
+Analyzed car sales data using data analysis techniques to identify trends, compare model performance, and generate meaningful business insights.
+
+**Tools:** Python, Pandas, Data Analysis, Data Visualizatio
+
+---
+
+## 2. Ecommerce Sales & Conversion Analysis
 
 Analyzed ecommerce session data using **SQL and Google BigQuery** to identify revenue trends, product performance, traffic-channel conversion, and cart abandonment.
 
@@ -126,15 +134,14 @@ Analyzed ecommerce session data using **SQL and Google BigQuery** to identify re
 
 **Tools:** SQL, Google BigQuery, Google Analytics Ecommerce Dataset
 
----
-
-## 2. Sales Data Analysis
-
-Analyzed car sales data using data analysis techniques to identify trends, compare model performance, and generate meaningful business insights.
-
-**Tools:** Python, Pandas, Data Analysis, Data Visualization
 
 ---
+
+ ##3. Customer Churn Analysis
+
+Analyzed customer churn patterns using SQL...
+
+🔗 View Project on GitHub :- https://github.com/bhavesh-gff/sql-customer-churn-analysis
 
 
 ---
