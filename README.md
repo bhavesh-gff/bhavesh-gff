@@ -141,7 +141,7 @@ Analyzed ecommerce session data using **SQL and Google BigQuery** to identify re
 
 Analyzed customer churn patterns using SQL...
 
-🔗 View Project on GitHub :- https://github.com/bhavesh-gff/sql-customer-churn-analysis
+
 
 
 ---
