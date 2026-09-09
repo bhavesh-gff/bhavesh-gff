@@ -137,7 +137,7 @@ Analyzed ecommerce session data using **SQL and Google BigQuery** to identify re
 
 ---
 
- ##3. Customer Churn Analysis
+ ## 3. Customer Churn Analysis
 
 Analyzed customer churn patterns using SQL...
 
