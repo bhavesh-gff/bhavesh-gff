@@ -223,7 +223,7 @@ I focus on building projects that demonstrate practical problem-solving, data an
 #  Connect With Me
 
 - 💼 LinkedIn: [Bhawesh Suthar](https://www.linkedin.com/in/bhavesh-suthar-00761b315)
-- 🐙 GitHub: [bhawesh-git](https://github.com/bhawesh-git)
+- 🐙 GitHub: [bhavesh-git](https://github.com/bhawesh-git)
 
 ---
 
