@@ -132,14 +132,17 @@ Analyzed ecommerce session data using **SQL and Google BigQuery** to identify re
 - Traffic-channel conversion rate
 - Add-to-cart sessions without completed transactions
 
-**Tools:** SQL, Google BigQuery, Google Analytics Ecommerce Dataset
+Tools: SQL, Google BigQuery, Google Analytics Ecommerce Dataset
 
 
 ---
 
  ## 3. Customer Churn Analysis
 
-Analyzed customer churn patterns using SQL...
+   Analyzed customer churn patterns using SQL...
+
+## 4. Enterprise Analytics Portal
+   SQL & Google BigQuery based analytics project combining E-Commerce and HR insights.
 
 
 
