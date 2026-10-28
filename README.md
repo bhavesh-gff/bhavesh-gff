@@ -176,7 +176,13 @@ Academic practical work and laboratory exercises.
 
 ### SYBCA Practical Java & Spring Boot
 Practical exercises covering Java, Spring Boot, backend development, and application development concepts.
+### ISA3-Contact-Form-Project
 
+### GitHub-Practical
+
+### FTP-student-lab
+
+### ISA2-fullstack-project
 ---
 
 # 📚 Currently Learning
