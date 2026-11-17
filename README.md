@@ -1,239 +1,270 @@
+
+<!-- ===================================================== -->
+<!-- BHAVESH SUTHAR | DATA SCIENCE GITHUB PROFILE -->
+<!-- ===================================================== -->
+
+<div align="center">
+
 # Hi, I'm Bhavesh Suthar 👋
 
-### BCA Computer Science Student | Python • SQL • Data Analytics | Data Science Learner
+### Aspiring Data Analyst | Python Developer | Data Science Learner
 
-I am a BCA Computer Science student passionate about using technology and data to solve practical problems.
+**Turning Data Into Meaningful Insights.**
 
-My primary interests are **Data Analytics, SQL, Python, Data Visualization, and Data Science**, along with **Java, Spring Boot, and Backend Development**.
+<p>
+  <a href="https://www.linkedin.com/in/bhavesh-suthar-00761b315">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/bhavesh-gff">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-I enjoy building real-world projects, analyzing datasets, creating dashboards, and continuously improving my technical and problem-solving skills through hands-on learning.
-
----
-
-##  About Me
-
--  BCA Computer Science Student
--  Interested in Data Analytics and Data Science
--  Working with Python for data analysis
--  Working with SQL and relational databases
--  Interested in Data Visualization and Business Intelligence
--  Also experienced with Java and Spring Boot
--  Focused on building practical and portfolio-ready projects
+</div>
 
 ---
 
-##  Technical Skills
+## 👨‍💻 About Me
+
+I am a **BCA Computer Science student** passionate about Data Analytics, Python, SQL, and Data Science.
+
+I enjoy exploring datasets, identifying meaningful patterns, performing data analysis, and transforming raw data into actionable insights.
+
+- 📊 Interested in Data Analytics and Business Intelligence.
+- 🐍 Working with Python for data analysis.
+- 🗄️ Exploring SQL and relational databases.
+- 📈 Interested in Data Visualization and statistical analysis.
+- 🤖 Currently learning Machine Learning fundamentals.
+- 💻 Also experienced with Java, Spring Boot, and Backend Development.
+- 🎯 Focused on building practical, portfolio-ready projects.
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
-- Python
-- Java
-- SQL
-- JavaScript
 
-### Data & Analytics
-- Data Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+### Data Science & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Computing-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20BigQuery-SQL-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+</p>
+
 - Data Cleaning
+- Exploratory Data Analysis (EDA)
 - Data Visualization
-- Google BigQuery
-- Google Analytics
 - E-commerce Analytics
 - Conversion Rate Analysis
 - Funnel Analysis
 
-### Currently Learning: Python & Data Tools
-- Pandas
-- NumPy
-- Matplotlib
+### Visualization & Business Intelligence
 
-### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-76B900?style=flat-square" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Backend & Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,html,css,js" />
+</p>
+
 - Spring Boot
 - REST APIs
 - JDBC
 - Hibernate (Basics)
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-
-### Databases
-- MySQL
-- PostgreSQL
-
 ### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-- Postman
-- Maven
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,maven" />
+</p>
 
 ---
 
-##  Internship & Experience
+## 📊 Featured Data Science Projects
 
-### IBM SkillsBuild Big Data & Business Management Internship
-**BharatCares × AICTE × IBM SkillsBuild**  
-**June 2026 – July 2026**
+### 1. 🚗 Sales Data Analysis
 
-- Successfully completed a 6-week internship focused on Big Data and Business Management.
-- Gained exposure to technology-driven problem solving and industry-oriented learning.
-- Strengthened my interest in Data Science, Data Analytics, and Business Intelligence.
-- **Certificate:** Certificate of Training
+Analyzed car sales data to identify sales trends, compare model performance, and generate meaningful business insights.
 
+**Technologies:** Python, Pandas, Data Analysis, Data Visualization.
 
-### S S Technologies — Summer Internship
-**May 2026**
+### 2. 🛒 E-commerce Sales & Conversion Analysis
+
+Analyzed e-commerce session data using SQL and Google BigQuery.
+
+**Key Analysis:**
+- Revenue by city.
+- Top products by units sold.
+- Session-to-transaction conversion rate.
+- Traffic-channel conversion rate.
+- Add-to-cart sessions without completed transactions.
+
+**Technologies:** SQL, Google BigQuery, Google Analytics E-commerce Dataset.
+
+### 3. 👥 Customer Churn Analysis
+
+Exploring customer churn patterns using SQL to understand customer behavior and retention-related metrics.
+
+**Technologies:** SQL, Data Analysis.
+
+### 4. 🏢 Enterprise Analytics Portal
+
+SQL and Google BigQuery-based analytics project combining E-commerce and HR insights.
+
+**Technologies:** SQL, Google BigQuery, Analytics.
+
+---
+
+## 💼 Internship & Experience
+
+### IBM SkillsBuild – Big Data & Business Management Internship
+
+**BharatCares × AICTE × IBM SkillsBuild**
+
+June 2026 – July 2026
+
+- Completed a 6-week internship focused on Big Data and Business Management.
+- Gained exposure to technology-driven problem-solving.
+- Strengthened interest in Data Science and Business Intelligence.
+
+### S.S. Technologies – Summer Internship
+
+May 2026
 
 - Created marketing assets using Canva.
 - Produced and edited visual content using DaVinci Resolve.
-- Assisted with social media content and digital branding activities.
-- Collaborated with team members on creative and operational tasks.
+- Assisted with social media content and digital branding.
 
-### Deloitte — Data Analytics Virtual Experience Program
-**May 2026**
+### Deloitte – Data Analytics Virtual Experience Program
+
+May 2026
 
 - Applied data analysis and visualization techniques to business datasets.
-- Performed exploratory data analysis to identify patterns and insights.
+- Performed exploratory data analysis.
 - Created dashboards to communicate business insights.
 - Developed analytical thinking and data-driven problem-solving skills.
-- Gained practical exposure to analytics workflows in a simulated consulting environment.
 
+### Lenovo – Summer Internship
 
-### Lenovo — Summer Internship
-**July 2025 – May 2026**
+July 2025 – May 2026
 
-- Gained practical exposure to professional technology workflows.
-- Worked with team members on assigned technical and operational activities.
-- Strengthened analytical, problem-solving, communication, and teamwork skills.
-- Gained experience working in a professional corporate environment.
+- Gained exposure to professional technology workflows.
+- Participated in assigned technical and operational activities.
+- Developed teamwork, communication, and problem-solving skills.
 
 ---
 
-#  Personal Projects
+## 🎓 Academic & Personal Projects
 
-## 1. Sales Data Analysis
-
-Analyzed car sales data using data analysis techniques to identify trends, compare model performance, and generate meaningful business insights.
-
-**Tools:** Python, Pandas, Data Analysis, Data Visualizatio
-
----
-
-## 2. Ecommerce Sales & Conversion Analysis
-
-Analyzed ecommerce session data using **SQL and Google BigQuery** to identify revenue trends, product performance, traffic-channel conversion, and cart abandonment.
-
-**Key Analysis:**
-- Revenue by city
-- Top products by units sold
-- Session-to-transaction conversion rate
-- Traffic-channel conversion rate
-- Add-to-cart sessions without completed transactions
-
-Tools: SQL, Google BigQuery, Google Analytics Ecommerce Dataset
-
+| Project | Technology |
+|---|---|
+| ISA2 Full Stack Project | Full Stack Development |
+| QR Code Generator | Python |
+| Task Management System | Software Development |
+| Tic-Tac-Toe Game | Python |
+| ISA3 Contact Form | PHP, MySQL |
+| Java & Spring Boot Practicals | Java, Spring Boot |
+| GitHub Practicals | Git, GitHub |
+| FTP Student Lab | Networking |
 
 ---
 
- ## 3. Customer Churn Analysis
-
-   Analyzed customer churn patterns using SQL...
-
-## 4. Enterprise Analytics Portal
-   SQL & Google BigQuery based analytics project combining E-Commerce and HR insights.
-
-
-
-
----
-
-#  College Projects & Assignments
-
-## College Projects
-
-### ISA2 Full Stack Project
-A full-stack academic project developed as part of BCA practical coursework.
-
-### QR Code Generator
-Python-based practical project developed to understand programming logic and utility application development.
-
-### Task Management System
-A task management application developed as part of practical software development work.
-
-## 4. Tic-Tac-Toe Game
-
-A Python-based game developed to strengthen programming fundamentals, logical thinking, and problem-solving skills through practical implementation.
-
-
----
-
-## College Assignments
-
-### Test Lab
-Academic practical work and laboratory exercises.
-
-### SYBCA Practical Java & Spring Boot
-Practical exercises covering Java, Spring Boot, backend development, and application development concepts.
-### ISA3-Contact-Form-Project
-
-### GitHub-Practical
-
-### FTP-student-lab
-
-### ISA2-fullstack-project
----
-
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Advanced SQL
 - Statistics for Data Analysis
+- Python Data Analysis Libraries
 - Data Visualization
 - Power BI
-- Machine Learning
+- Machine Learning Fundamentals
 - Data Structures & Algorithms
 - Advanced Spring Boot Concepts
-- REST API Development
-- System Design Fundamentals
 
 ---
 
-# 🎯 Career Interests
+## 🎯 Career Interests
 
 - Data Analyst
 - Data Scientist
 - Python Developer
-- Backend Developer
 
-My primary career focus is **Data Analytics and Data Science**, while continuing to develop my backend development skills.
-
----
-
-# 📊 Featured Work
-
-I use GitHub to document my learning journey, academic work, personal projects, data analysis projects, and software development experiments.
-
-I focus on building projects that demonstrate practical problem-solving, data analysis, programming, and software development skills.
+My primary career focus is **Data Analytics and Data Science**, while continuously improving my programming, analytical, and backend development skills.
 
 ---
 
-# Certifications
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavesh-gff&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7E5F&icon_color=FEB47B&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-gff&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7E5F&text_color=FFFFFF" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=bhavesh-gff&theme=dark&hide_border=true&background=0D1117&ring=FF7E5F&fire=FEB47B&currStreakLabel=FF7E5F" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<!-- Enable the GitHub Actions snake workflow before using this image -->
+
+<img src="https://raw.githubusercontent.com/bhavesh-gff/bhavesh-gff/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🏆 Certifications
 
 - Python Fundamentals
 - Data Science Fundamentals
 - Operating System Concepts
 - SQL for Data Analysis
-- IBM SkillsBuild Big Data & Business Management Internship BharatCares in association with AICTE & IBM SkillsBuild Certificate of Training | June 2026 – July 2026
-- IBM lifelong professional  skill  
+- IBM SkillsBuild Big Data & Business Management Internship
+- IBM Lifelong Professional Skills
 
 ---
 
-#  Connect With Me
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Bhawesh Suthar](https://www.linkedin.com/in/bhavesh-suthar-00761b315)
-- 🐙 GitHub: [bhavesh-git](https://github.com/bhawesh-git)
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/bhavesh-suthar-00761b315">
+  <img src="https://img.shields.io/badge/LinkedIn-Bhavesh%20Suthar-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-⭐ Thanks for visiting my profile!
+<a href="https://github.com/bhavesh-gff">
+  <img src="https://img.shields.io/badge/GitHub-bhavesh--gff-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's explore data, build projects, and create meaningful solutions.**
+
+</div>
