@@ -1,24 +1,28 @@
 
-<!-- ===================================================== -->
-<!-- BHAVESH SUTHAR | DATA SCIENCE GITHUB PROFILE -->
-<!-- ===================================================== -->
+<!-- =====================================================
+     BHAVESH SUTHAR | DATA SCIENCE PROFILE
+     ===================================================== -->
 
 <div align="center">
 
-# Hi, I'm Bhavesh Suthar 👋
+<img src="./profile-banner.png" width="100%" alt="Bhavesh Suthar Data Science Banner"/>
 
-### Aspiring Data Analyst | Python Developer | Data Science Learner
+<br/>
 
-**Turning Data Into Meaningful Insights.**
+<h2>Aspiring Data Analyst | Python Developer | Data Science Learner</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/bhavesh-suthar-00761b315">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/bhavesh-gff">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <b>Turning Data Into Meaningful Insights.</b>
 </p>
+
+<a href="https://www.linkedin.com/in/bhavesh-suthar-00761b315">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/bhavesh-gff">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=bhavesh-gff&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
@@ -51,13 +55,14 @@ I enjoy exploring datasets, identifying meaningful patterns, performing data ana
 ### Data Science & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Computing-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20BigQuery-SQL-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
+- Data Analysis
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
@@ -65,12 +70,12 @@ I enjoy exploring datasets, identifying meaningful patterns, performing data ana
 - Conversion Rate Analysis
 - Funnel Analysis
 
-### Visualization & Business Intelligence
+### Data Visualization & BI
 
 <p>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-76B900?style=flat-square" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ### Databases
@@ -98,17 +103,17 @@ I enjoy exploring datasets, identifying meaningful patterns, performing data ana
 
 ---
 
-## 📊 Featured Data Science Projects
+## 🚀 Featured Data Science Projects
 
 ### 1. 🚗 Sales Data Analysis
 
-Analyzed car sales data to identify sales trends, compare model performance, and generate meaningful business insights.
+Analyzed car sales data to identify trends, compare model performance, and generate meaningful business insights.
 
-**Technologies:** Python, Pandas, Data Analysis, Data Visualization.
+**Technology Stack:** Python, Pandas, Data Analysis, Data Visualization.
 
 ### 2. 🛒 E-commerce Sales & Conversion Analysis
 
-Analyzed e-commerce session data using SQL and Google BigQuery.
+Analyzed e-commerce session data using SQL and Google BigQuery to understand revenue trends, product performance, and conversion behavior.
 
 **Key Analysis:**
 - Revenue by city.
@@ -117,19 +122,19 @@ Analyzed e-commerce session data using SQL and Google BigQuery.
 - Traffic-channel conversion rate.
 - Add-to-cart sessions without completed transactions.
 
-**Technologies:** SQL, Google BigQuery, Google Analytics E-commerce Dataset.
+**Technology Stack:** SQL, Google BigQuery, Google Analytics E-commerce Dataset.
 
 ### 3. 👥 Customer Churn Analysis
 
-Exploring customer churn patterns using SQL to understand customer behavior and retention-related metrics.
+SQL-based analysis of customer churn patterns to explore customer behavior and retention-related insights.
 
-**Technologies:** SQL, Data Analysis.
+**Technology Stack:** SQL, Data Analysis.
 
 ### 4. 🏢 Enterprise Analytics Portal
 
-SQL and Google BigQuery-based analytics project combining E-commerce and HR insights.
+An analytics project combining E-commerce and HR insights using SQL and Google BigQuery.
 
-**Technologies:** SQL, Google BigQuery, Analytics.
+**Technology Stack:** SQL, Google BigQuery.
 
 ---
 
@@ -139,7 +144,7 @@ SQL and Google BigQuery-based analytics project combining E-commerce and HR insi
 
 **BharatCares × AICTE × IBM SkillsBuild**
 
-June 2026 – July 2026
+📅 June 2026 – July 2026
 
 - Completed a 6-week internship focused on Big Data and Business Management.
 - Gained exposure to technology-driven problem-solving.
@@ -147,7 +152,7 @@ June 2026 – July 2026
 
 ### S.S. Technologies – Summer Internship
 
-May 2026
+📅 May 2026
 
 - Created marketing assets using Canva.
 - Produced and edited visual content using DaVinci Resolve.
@@ -155,7 +160,7 @@ May 2026
 
 ### Deloitte – Data Analytics Virtual Experience Program
 
-May 2026
+📅 May 2026
 
 - Applied data analysis and visualization techniques to business datasets.
 - Performed exploratory data analysis.
@@ -164,7 +169,7 @@ May 2026
 
 ### Lenovo – Summer Internship
 
-July 2025 – May 2026
+📅 July 2025 – May 2026
 
 - Gained exposure to professional technology workflows.
 - Participated in assigned technical and operational activities.
@@ -175,7 +180,7 @@ July 2025 – May 2026
 ## 🎓 Academic & Personal Projects
 
 | Project | Technology |
-|---|---|
+|:---|:---|
 | ISA2 Full Stack Project | Full Stack Development |
 | QR Code Generator | Python |
 | Task Management System | Software Development |
@@ -191,7 +196,7 @@ July 2025 – May 2026
 
 - Advanced SQL
 - Statistics for Data Analysis
-- Python Data Analysis Libraries
+- Pandas and NumPy
 - Data Visualization
 - Power BI
 - Machine Learning Fundamentals
@@ -202,37 +207,39 @@ July 2025 – May 2026
 
 ## 🎯 Career Interests
 
-- Data Analyst
-- Data Scientist
-- Python Developer
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data_Analyst-FF7E5F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Scientist-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge"/>
+
+</div>
 
 My primary career focus is **Data Analytics and Data Science**, while continuously improving my programming, analytical, and backend development skills.
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavesh-gff&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7E5F&icon_color=FEB47B&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavesh-gff&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF7E5F&icon_color=FEB47B&text_color=FFFFFF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-gff&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7E5F&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-gff&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF7E5F&text_color=FFFFFF"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=bhavesh-gff&theme=dark&hide_border=true&background=0D1117&ring=FF7E5F&fire=FEB47B&currStreakLabel=FF7E5F" />
+<img width="65%" src="https://streak-stats.demolab.com?user=bhavesh-gff&theme=transparent&hide_border=true&background=0D1117&ring=FF7E5F&fire=FEB47B&currStreakLabel=FF7E5F&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<!-- Enable the GitHub Actions snake workflow before using this image -->
-
-<img src="https://raw.githubusercontent.com/bhavesh-gff/bhavesh-gff/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavesh-gff&bg_color=0D1117&color=FFFFFF&line=FF7E5F&point=FEB47B&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -244,7 +251,7 @@ My primary career focus is **Data Analytics and Data Science**, while continuous
 - Data Science Fundamentals
 - Operating System Concepts
 - SQL for Data Analysis
-- IBM SkillsBuild Big Data & Business Management Internship
+- IBM SkillsBuild – Big Data & Business Management Internship
 - IBM Lifelong Professional Skills
 
 ---
@@ -254,11 +261,11 @@ My primary career focus is **Data Analytics and Data Science**, while continuous
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhavesh-suthar-00761b315">
-  <img src="https://img.shields.io/badge/LinkedIn-Bhavesh%20Suthar-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Bhavesh_Suthar-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/bhavesh-gff">
-  <img src="https://img.shields.io/badge/GitHub-bhavesh--gff-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-bhavesh--gff-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
